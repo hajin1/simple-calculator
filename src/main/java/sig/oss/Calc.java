@@ -22,5 +22,8 @@ public class Calc{
 		r += x;
 	}
 
+	public int dec(int d){
+		r -=d;
+	}
 }
 
