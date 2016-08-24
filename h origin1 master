@@ -1,0 +1,54 @@
+[33mcommit 54e79fc2611700082f6424de3d8597b810a74487[m
+Author: Kim, Hajin <hajinkim@kangwon.ac.kr>
+Date:   Wed Aug 24 15:47:12 2016 +0900
+
+    add inc func to Calc.java
+
+[33mcommit b65475b0d62d6d87a7822234ef9fba4e4b59a5d8[m
+Author: Kim, Hajin <hajinkim@kangwon.ac.kr>
+Date:   Wed Aug 24 14:50:09 2016 +0900
+
+    fix sub test code
+
+[33mcommit 0a66c575d76d7ada6f4d4081226007da877b8bb9[m
+Merge: 725fd0d 97e85bd
+Author: Kim, Hajin <hajinkim@kangwon.ac.kr>
+Date:   Wed Aug 24 14:37:26 2016 +0900
+
+    add mul comments 12
+
+[33mcommit 97e85bd972b272ec5c71bdcd0309fae5564d20e4[m
+Author: Kim, Hajin <hajinkim@kangwon.ac.kr>
+Date:   Wed Aug 24 14:25:59 2016 +0900
+
+    add update mul comment 2
+
+[33mcommit 725fd0dd2cb50695a624b2ca9a213da0592cfba5[m
+Author: Kim, Hajin <hajinkim@kangwon.ac.kr>
+Date:   Wed Aug 24 14:22:42 2016 +0900
+
+    update mul comment 1
+
+[33mcommit 2e7dca5aa19e6e50cf44a92c6b2d32d98163fd14[m
+Author: Kim, Hajin <hajinkim@kangwon.ac.kr>
+Date:   Wed Aug 24 13:59:34 2016 +0900
+
+    add multi func and test code to Calc and CalcTest
+
+[33mcommit 15e7a62dfb7da1bcf00d91d70e09480c427062c8[m
+Author: Kim, Hajin <hajinkim@kangwon.ac.kr>
+Date:   Wed Aug 24 13:30:32 2016 +0900
+
+    add sub method and test code to Calc and CalcTest
+
+[33mcommit d92a2d42c460bcfe0a155836a73e4053d1ac6429[m
+Author: Kim, Hajin <hajinkim@kangwon.ac.kr>
+Date:   Wed Aug 24 13:09:17 2016 +0900
+
+    add comments to add method in Calc.java
+
+[33mcommit 4495a9e889a90305dabd2ed56850b70214f81601[m
+Author: Kim, Hajin <hajinkim@kangwon.ac.kr>
+Date:   Wed Aug 24 11:42:14 2016 +0900
+
+    initial commit
