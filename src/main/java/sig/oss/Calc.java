@@ -1,4 +1,5 @@
 public class Calc{
+	public int r=0;
 	public int add(int x, int y){ //add method
 		return x+y;
 	}
@@ -9,5 +10,8 @@ public class Calc{
 		return x*y;
 	}
 	//testcode
+	public int dec(int d){
+		r -=d;
+	}
 }
 
